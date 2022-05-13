@@ -4,7 +4,8 @@ class node {
     public :
     int data ;
     node *next ;
-}
+};
 int main(){
+    cout<<"hi";
     return 0 ; 
 }
