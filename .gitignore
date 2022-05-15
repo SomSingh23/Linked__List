@@ -1,4 +1,6 @@
 .exe
+.exe*
 insert_at_end_of_linked_list.exe
 insert_at_end_of_linked_list.exe*
 .vscode/
+make_linked_list.exe
