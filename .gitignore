@@ -2,6 +2,7 @@ sortedAddition.exe
 insert_at_end_of_linked_list.exe*
 deleteNOde.exe
 insert_at_end_of_linked_list.exe
+ifLinkedListIsSorted.exe
 
 .vscode/
 make_linked_list.exe
