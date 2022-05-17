@@ -52,6 +52,6 @@ int main(){
     create(a,5);
      display(first);
    reverseLinkedList_method_1() ;
-   display(first);
+   display(first); // kalashnikov
     return 0 ;
 }
