@@ -4,6 +4,7 @@ deleteNOde.exe
 insert_at_end_of_linked_list.exe
 ifLinkedListIsSorted.exe
 reverseLinkedList.exe
+reverseLinkedListSlidingPointers.exe
 .vscode/
 make_linked_list.exe
 .exe
